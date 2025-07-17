@@ -236,3 +236,6 @@ coverage.lcov
 ## as it is intended for projects not libraries
 yarn.lock
 package-lock.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
